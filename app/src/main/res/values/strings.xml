@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WeatherForecast571</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="forecast">Forecast Search</string>
+    <string name="street">Street</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="degree">Celsius</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="about">About</string>
+    <string name="power">Powered By:</string>
+    <string name="name">Name: Minaxi Singla</string>
+    <string name="studentid">Student Id: 4676995181 </string>
+    <string name="facebook_app_id">1695162807386307</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_view">Map</string>
+    <string name="aeris_client_id">XdFUNygQvZNIrFz5mvQw7</string>
+    <string name="aeris_client_secret">SbcFP1QarGcc4SYDKJuUubwkyrrLjFueTXCbvF8T</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyATH9g2DAP3BTLb5i9meqTS9jI_XzpLT-Q</string>
+    <string name="title_activity_map_fragment">MapFragment</string>
+</resources>
